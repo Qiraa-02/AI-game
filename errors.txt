@@ -1,0 +1,10 @@
+﻿I'm sorry, but errors were detected in your script. Please correct the
+errors listed below, and try again.
+
+
+File "game/screens.rpy", line 339: 'action' is not a keyword argument or valid child of the screen statement.
+    action SetVariable("nav_visible", False)
+          ^
+
+Ren'Py Version: Ren'Py 8.3.7.25031702
+Sun Jun 22 12:36:50 2025
